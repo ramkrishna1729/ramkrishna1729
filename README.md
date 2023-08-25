@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Models<br>👯 I’m looking to collaborate on this platform<br>🤝 I’m seeking knowledge <br>🌱 I’m currently in my learning phase<br>💬 Ask me about ML models
+🔭 I’m currently working on Machine Learning Models<br>👯 I’m contributing on this platform<br>🤝 I’m seeking knowledge <br>🌱 I’m currently in my learning phase and will get better day by day <br>💬 Ask me about Machine learning , neural networking and deep learning 
 
 
 ## 🌐 Socials:
