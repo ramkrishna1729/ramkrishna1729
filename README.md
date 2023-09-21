@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Upcoming Data Engineer<br>👯 I’m contributing on this platform<br>🤝 I’m seeking knowledge <br>🌱 I’m currently in my learning phase and will get better day by day <br>💬 Ask me about Machine learning , neural networking and deep learning 
+🔭 Upcoming Data Engineer<br>👯 I’m contributing on this platform<br>🤝 I’m seeking knowledge <br>🌱 I’m currently in my learning phase and will get better day by day <br>💬 Ask me about Machine learning , neural networking ,deep learning , real-life application of IOT ,Robotics and Data Analytics
 
 
 ## 🌐 Socials:
