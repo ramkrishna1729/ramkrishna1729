@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Full Stack developer<br>👯 I’m contributing on this platform<br>🤝 I’m seeking knowledge <br>🌱 I’m currently in my learning phase and will get better day by day <br>💬 Ask me about Machine learning , Neural networking ,Deep learning , Real-life application of IOT ,Robotics and Data Analytics
+🔭 A Full Stack developer<br>👯 I’m contributing on this platform<br>🤝 I’m seeking knowledge <br>🌱 I’m currently in my learning phase and will get better day by day <br>💬 Ask me about Python, React, Machine learning, Neural networking, Real-life application of IOT, Robotics and Data Analytics
 
 
 ## 🌐 Socials:
